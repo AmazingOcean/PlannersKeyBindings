@@ -1,0 +1,16 @@
+[
+{
+  "modid": "plannerskeybindings",
+  "name": "Planners Key Bindings Mod",
+  "description": "Planners Key Bindings Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
